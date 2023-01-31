@@ -1,0 +1,22 @@
+body{
+
+    
+    font-family:Arial,Helvetica,sans-serif;
+    background: linear-gradient(to right, rgb(28,168,57), rgb(110,25,143));
+    text-align: center;
+    color:aliceblue
+
+
+}
+
+
+.second-step{
+
+    display:none;
+}
+
+
+.third-step{
+
+    display:none;
+}
